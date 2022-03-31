@@ -16,24 +16,24 @@ I hope in the next days to add some other interesting features that allow me to 
 
 ## _Used technology_
 
-- Html 5 [ ]
-- CSS [ ]
-- JavaScript [ ]
-- React [ ]
-- TypeScript [ ]
-- Vite [ ]
-- Styled Components [ ]
-- Clean Architecture [ ]
-- ESLint [ ]
-- Prettier [ ]
+- Html 5 :heavy_check_mark:
+- CSS :heavy_check_mark:
+- JavaScript :heavy_check_mark:
+- React :heavy_check_mark:
+- TypeScript :heavy_check_mark:
+- Vite :heavy_check_mark:
+- Styled Components :heavy_check_mark:
+- Clean Architecture :heavy_check_mark:
+- ESLint :heavy_check_mark:
+- Prettier :heavy_check_mark:
 
 ## _Methods, Resources and Tools_
 
-- React Context [ ]
-- React Portals [ ]
-- React Router Dom [ ]
-- React hooks [ ]
-- custom hooks [ ]
+[ ] React Context :heavy_check_mark:
+[ ] React Portals :heavy_check_mark:
+[ ] React Router Dom :heavy_check_mark:
+[ ] React hooks :heavy_check_mark:
+[ ] custom hooks :heavy_check_mark:
 
 ## _Requirements (Developers)_
 
@@ -43,9 +43,9 @@ I hope in the next days to add some other interesting features that allow me to 
 
 ## _Installation (Developers)_
 
-- Clone the repository: https://github.com/newmanferrer/newtodolist-v1.git
-- Another option is to download the repository using ZIP format.
-- Install the dependencies using the command "yarn add", from the terminal console.
-- From the terminal console, execute the “yarn dev” command, to run the development server.
+1. Clone the repository: https://github.com/newmanferrer/newtodolist-v1.git
+1. Another option is to download the repository using ZIP format.
+1. Install the dependencies using the command "yarn add", from the terminal console.
+1. From the terminal console, execute the “yarn dev” command, to run the development server.
 
 ## :sparkles: Autor: Newman Ferrer Maracaibo, Venezuela :sparkles:
