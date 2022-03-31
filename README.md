@@ -27,13 +27,13 @@ I hope in the next days to add some other interesting features that allow me to 
 - ESLint :heavy_check_mark:
 - Prettier :heavy_check_mark:
 
-## _Methods, Resources and Tools_
+## _Methods, Resources, Tools and Apis_
 
-[ ] React Context :heavy_check_mark:
-[ ] React Portals :heavy_check_mark:
-[ ] React Router Dom :heavy_check_mark:
-[ ] React hooks :heavy_check_mark:
-[ ] custom hooks :heavy_check_mark:
+- React Context :heavy_check_mark:
+- React Portals :heavy_check_mark:
+- React Router Dom :heavy_check_mark:
+- React hooks :heavy_check_mark:
+- custom hooks :heavy_check_mark:
 
 ## _Requirements (Developers)_
 
@@ -44,8 +44,8 @@ I hope in the next days to add some other interesting features that allow me to 
 ## _Installation (Developers)_
 
 1. Clone the repository: https://github.com/newmanferrer/newtodolist-v1.git
-1. Another option is to download the repository using ZIP format.
-1. Install the dependencies using the command "yarn add", from the terminal console.
-1. From the terminal console, execute the “yarn dev” command, to run the development server.
+2. Another option is to download the repository using ZIP format.
+3. Install the dependencies using the command "yarn add", from the terminal console.
+4. From the terminal console, execute the “yarn dev” command, to run the development server.
 
 ## :sparkles: Autor: Newman Ferrer Maracaibo, Venezuela :sparkles:
